@@ -49,7 +49,47 @@ Deployment: Heroku (for hosting the application)"
 
 ## Brief
 
-<img width="447" alt="Screenshot 2024-02-09 at 12 25 41" src="https://github.com/gibacarnieli/The-Tasty-Palette/assets/113900097/1340a635-c071-43fa-b556-0e24478f5064">
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: A MERN Stack App
+
+## Overview
+
+**You’ve come a long way, and it's time to show it.** This will be your most advanced project to date. It is __IMPORTANT__ to note that when we say _advanced_, the project doesn't necessarily need to have lots more functionality.
+
+**Remember:** simple code is stable code, so always favour refactoring and bug fixing over adding more functionality.
+
+With this in mind, you need to be smart about how you plan, limit your project scope to be achievable (in terms of functionality) and focus on quality rather than quantity.
+
+Make sure you review your project proposal with your instructor so you can make sure it's **something you can accomplish in the limited time we have**.
+
+---
+
+## Technical Requirements
+
+You must:
+
+* **Build a full-stack application** by making your own backend and your own front-end
+* **Use an Express API** to serve your data from a Mongo database
+* **Consume your API with a separate front-end** built with React
+* **Be a complete product** which most likely means multiple relationships and CRUD functionality for at least a couple of models
+* **Implement thoughtful user stories/wireframes** that are significant enough to help you know which features are core MVP and which you can cut
+* **Have a visually impressive design** to kick your portfolio up a notch and have something to wow future clients & employers. **ALLOW** time for this.
+* **Be deployed online** so it's publicly accessible.
+
+---
+
+## Necessary Deliverables
+
+* A **working app** hosted on the internet
+* A **link to your hosted working app** in the URL section of your Github repo
+* A **git repository hosted on Github**, with a link to your hosted project, and frequent commits dating back to the _very beginning_ of the project
+* **A `readme.md` file** with:
+    * An embedded screenshot of the app
+    * Explanations of the **technologies** used
+    * A couple paragraphs about the **general approach you took**
+    * **Installation instructions** for any dependencies
+    * Link to your **user stories/wireframes** – sketches of major views / interfaces in your application
+    * Link to your **pitch deck/presentation** – documentation of your wireframes, user stories, and proposed architecture
+    * Descriptions of any **unsolved problems** or **major hurdles** you had to overcome
 
 ## Planning
 
@@ -115,7 +155,7 @@ The most significant accomplishment for me was the review feature, as mentioned 
 
 The most significant bug I encountered was related to the review functionality, which initially wasn't working. Apart from this issue, our website is currently free of any other bugs.
 
-## Improvments
+## Improvements
 
 Enable users to modify their password, username, or email.
 Implement a liking and disliking feature for dishes.
